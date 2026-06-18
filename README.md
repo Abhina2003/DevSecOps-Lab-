@@ -1,4 +1,4 @@
-# DevSecOps Lab Project
+ DevSecOps Lab Project
 
 ## Week 1 - Jenkins + SonarQube + DVWA
 
@@ -90,3 +90,43 @@ GitHub → Jenkins → SonarQube → Trivy → Checkov
 - Installed Trivy
 - Performed container vulnerability scanning
 - Integrated Trivy scan into Jenkins pipeline
+# DevSecOps Lab
+
+This repository contains my DevSecOps practical implementation.
+
+## Project Structure
+
+### Week 1
+- Jenkins Setup
+- SonarQube Setup
+- DVWA Deployment
+- CI/CD Pipeline Creation
+
+### Week 2
+- Trivy Installation
+- Container Vulnerability Scanning
+- Jenkins + Trivy Integration
+
+### Week 3
+- Terraform Installation
+- Infrastructure as Code (IaC)
+- Checkov Security Scanning
+- Jenkins + Checkov Integration
+
+## Tools Used
+
+- Docker
+- Jenkins
+- SonarQube
+- DVWA
+- Trivy
+- Terraform
+- Checkov
+
+## Pipeline Flow
+
+GitHub → Jenkins → SonarQube → Trivy → Checkov
+
+## Author
+
+Abhinav V
