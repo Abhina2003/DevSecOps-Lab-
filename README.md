@@ -48,6 +48,12 @@ Successfully performed container vulnerability assessment.
 - Installed Checkov
 - Performed IaC security scanning
 
+### Week 4
+- OWASP ZAP Installation
+- Dynamic Application Security Testing (DAST)
+- DVWA Security Assessment
+- Jenkins DAST Integration
+
 ### Findings
 Passed checks: 11
 
